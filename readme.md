@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 📄 Know about my experiences[Resume](https://drive.google.com/file/d/1k5r8xdRU2nUJlGkGRXT1uxBZc-MQlO6y/view?usp=drive_link)]
+- 📄 Know about my experiences[ : Resume(https://drive.google.com/file/d/1k5r8xdRU2nUJlGkGRXT1uxBZc-MQlO6y/view?usp=drive_link)]
 
 - 🕹️ **My Hobbie is playing PC games**
 
