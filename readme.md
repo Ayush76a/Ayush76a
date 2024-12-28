@@ -15,7 +15,7 @@
 
 - 📫 You can reach me at :  ayush76a@gmail.com | ayush760a@gmail.com
 
-- My Portfolio : [Link}(https://ayushvishwakarma.netlify.app/)
+- My Portfolio : [Link](https://ayushvishwakarma.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
